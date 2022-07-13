@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vk101 (Varun)
-- 👀 I’m interested in open source technologies
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- Hi, I’m @vk101 (Varun)
+- I’m looking to collaborate on open source projects
 
 <!---
 vk101/vk101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
